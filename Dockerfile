@@ -1,4 +1,4 @@
-FROM ubuntu:xenial-20210416
+FROM ubuntu:focal
 # update
 RUN apt update
 # Setup Server Environment
