@@ -1,6 +1,6 @@
 name: "Secure Pipeline Test - Dependency Check"
 on: ["push","pull_request"]
-  jobs:
+jobs:
   depchecktest:
     runs-on: ubuntu-latest
     name: depecheck_test
