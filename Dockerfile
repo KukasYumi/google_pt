@@ -1,4 +1,4 @@
-FROM ubuntu:focal
+FROM ubuntu:20.04
 # update
 RUN apt update
 # Setup Server Environment
