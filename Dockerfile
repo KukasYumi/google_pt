@@ -1,4 +1,4 @@
-FROM ubuntu:focal
+FROM ubuntu:mantic-20240530
 # update
 RUN apt update
 # Setup Server Environment
